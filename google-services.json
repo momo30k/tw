@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "926015535595",
+    "project_id": "siame-adfe1",
+    "storage_bucket": "siame-adfe1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926015535595:android:cf27828dad28988f3441ae",
+        "android_client_info": {
+          "package_name": "com.siameshop.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoCakbF2BDT5V53XnWGIYfhtUTar99kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926015535595:android:cc29bfe3bc21ebc53441ae",
+        "android_client_info": {
+          "package_name": "com.siameshop.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoCakbF2BDT5V53XnWGIYfhtUTar99kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926015535595:android:a2bb93faa8f0b89a3441ae",
+        "android_client_info": {
+          "package_name": "com.siameshop.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhoCakbF2BDT5V53XnWGIYfhtUTar99kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
